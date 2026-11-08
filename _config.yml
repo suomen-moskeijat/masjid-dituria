@@ -1,0 +1,10 @@
+# Kosovolainen masjid Dituria – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Kosovolainen masjid Dituria"
+description: "Kosovolainen masjid Dituria, Pulttitie 14, 00880 Helsinki. Rukousajat, tapahtumat ja toiminta."
+moskeija: kosovolainen-masjid-dituria     # tiedosto _moskeijat/kosovolainen-masjid-dituria.md
+
+# Osoite: https://suomen-moskeijat.github.io/masjid-dituria/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/masjid-dituria"
